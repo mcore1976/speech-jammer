@@ -8,9 +8,9 @@
 
 #include "RP2040_PWM.h"
 
-// put desired ADCxx RP2040 pico pin here - I am using ADC1 which is GP27. 
-// pin A1 = microphone input MAX 4466
-const int analogPin = A1;
+// put desired ADCxx RP2040 pico pin here - I am using ADC0 which is GP26. 
+// pin A0 = microphone input MAX 4466
+const int analogPin = A0;
 
 // global variable for reading ADC 
 int audioreading = 0;
