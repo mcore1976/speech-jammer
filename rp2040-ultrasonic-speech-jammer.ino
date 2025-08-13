@@ -1,4 +1,4 @@
-// DIRECTIONAL ULTRASONIC SPEECH JAMMER
+// ULTRASONIC SPEECH JAMMER
 // based on Raspberry Pi Pico - RP2040-zero board
 // MAX4466 microphone module
 // and TPA2116D2 module XH-M542
